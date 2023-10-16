@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 16 09:46:59 2023
+
+@author: Alumno
+"""
+
+
+
+Redacción RPP
+por Redacción RPP
+
+11 de Octubre del 2023 12:34 PM · Actualizado el 11 de Octubre del 2023 12:34 PM
+El Perú ocupa el cuarto lugar en el uso de la IA a nivel latinoamericano, 
+según el IBM Global AI Adoption Index 2022. En un nuevo episodio del podcast Ciencia
+ al Día de RPP, exploramos los límites éticos de los fines para los que es empleada.
+Por: Herless Alvarez Bazán
+
+Desde hace ya una década, no solo se habla de Inteligencia Artificial (IA), sino que,
+ además de utilizarse en el campo científico o tecnológico, también se aplica a la vida cotidiana, en muchos casos, sin que la gente lo sepa. 
+
+Los asistentes de voz como “Siri” o “Alexa”, la identificación facial y la traducción 
+automática son algunos ejemplos. A pesar de su irrupción en nuestra vida diaria, salta la pregunta de si realmente sabemos cómo sacarle el máximo provecho a la IA.
+
+Este es el tema del tercer episodio del podcast de RPP “Ciencia al Día”, en el que el 
+público podrá conocer cómo usarla responsablemente y cómo estar preparados ante su empleo para fines cuestionables o delictivos, como la ciberdelincuencia.
+Fuente: RPP
